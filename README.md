@@ -35,19 +35,18 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
+ * @param {string} city - Bogota, Colombia.
+ * @param {string} languagues - Spanish, English, Italian.
+ * @param {string} specialization - QA automation.
+ * @param {string} interests - QA, math, writing & problem-solving.
+ * @param {string} hobbies - Reading, watching sports & playing music.
+ * @param {string} education - BSc CompSci, University of the People.
+ * @param approachable Open for exciting project collaborations.
  * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
+ * @param {string} weakness - Perfectionism.
+ * @param {Date} birthday - 20th of August 1998.
  * @throws {Punch} To any and all bugs.
- * @returns {Object} Austinae.
+ * @returns {Object} Daniel.
  */
 ```
 
