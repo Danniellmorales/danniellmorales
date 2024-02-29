@@ -13,7 +13,7 @@
 <br>
 <div>
   <div align=center>
-      <img src="Cyborg-3-removebg-preview.png">
+      <img src="Cyborg-3-removebg-preview.png" width="280">
   </div>
  <div align="center">
     <a href="https://git.io/typing-svg">
