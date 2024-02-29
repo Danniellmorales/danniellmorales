@@ -7,7 +7,7 @@
 
 
 <details>
-<summary>Open my world</summary>
+<summary>Dive into My Universe</summary>
 
 [comment]: <> (View Counter)
 <br>
@@ -118,8 +118,8 @@
   <br>
   One of my favourite quotes
   <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
+    "It’s not that I’m so smart, it’s just that I stay with problems longer."
+    <br><strong>Albert Einstein</strong>
   </blockquote>
 </details>
 
@@ -130,11 +130,10 @@
   <tr>
   <td width="50%" valign="top">
 
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about QA, programming, or anything else related to technology, feel free to <a href="mailto:dm34mg@gmail.com">contact me by email</a>. I'm always open to discussions and collaborations.
+
 
   </td>
   <td width="50%" valign="top">
@@ -154,7 +153,7 @@ If you have any questions about web development, writing mistake-free documentat
 </details>
 
 <div align="center">
-  <img src="planet2-removebg-preview.png" alt="Button of pokeball" width="450">
+  <img src="planet2-removebg-preview.png" alt="Button of my world" width="450">
 
 </div>
 
