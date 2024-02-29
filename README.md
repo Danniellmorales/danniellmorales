@@ -2,10 +2,11 @@
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<div align="center">
+  <img src="planet1-removebg-preview.png" alt="Top of world">
 
 <details>
-<summary>Open profile</summary>
+<summary>Open my world</summary>
 
 [comment]: <> (View Counter)
 <br>
@@ -189,7 +190,8 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+<div align="center">
+  <img src="planet2-removebg-preview.png" alt="Button of pokeball">
 
 </div>
 
