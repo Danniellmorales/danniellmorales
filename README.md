@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="planet1-removebg-preview.png" alt="Top of world" width="600">
+  <img src="planet1-removebg-preview.png" alt="Top of world" width="450">
 
 
 <details>
@@ -192,7 +192,7 @@ If you have any questions about web development, writing mistake-free documentat
 </details>
 
 <div align="center">
-  <img src="planet2-removebg-preview.png" alt="Button of pokeball" width="600">
+  <img src="planet2-removebg-preview.png" alt="Button of pokeball" width="450">
 
 </div>
 
