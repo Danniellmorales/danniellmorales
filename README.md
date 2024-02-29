@@ -15,11 +15,12 @@
   <div align=center>
       <img src="Cyborg-3-removebg-preview.png" width="280">
   </div>
- <div align="center">
+<div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Daniel;+Morales+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Guitar+player" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=800080&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Daniel+Morales;Welcome+to+my+profile!;Enthusiast+about+QA+automation;Detail-oriented+and+ambitious;Programming+lover;Confident+and+dedicated;Guitar+player" alt="Typing SVG" />
     </a>
 </div>
+
 
 </div>
 
