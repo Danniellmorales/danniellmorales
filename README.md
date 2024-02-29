@@ -13,7 +13,7 @@
 <br>
 <div>
   <div align=center>
-      <img src="photo.png">
+      <img src="Cyborg-3-removebg-preview.png">
   </div>
  <div align="center">
     <a href="https://git.io/typing-svg">
@@ -197,7 +197,7 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:guerrandw@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="https://www.linkedin.com/in/daniel-morales-117085197/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:dm34mg@gmail.com?subject=Hi%20Daniel%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
