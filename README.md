@@ -28,9 +28,11 @@
 <summary>About me</summary>
 
 <div align="left">
-
+  
+```js
+  
 /**
- * Represents me as an AI Engineer.
+ * Represents me.
  * @constructor
  * @param {string} city - Bogota, Colombia.
  * @param {string} languages - Spanish, English, Italian.
@@ -45,7 +47,6 @@
  * @throws {Punch} To any bugs or AI model issues.
  * @returns {Object} Daniel.
  */
-
 ```
 
 </div>
@@ -130,7 +131,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about QA, programming, or anything else related to technology, feel free to <a href="mailto:dm34mg@gmail.com">contact me by email</a>. I'm always open to discussions and collaborations.
+If you have any questions about QA, IA, programming, or anything else related to technology, feel free to <a href="mailto:dm34mg@gmail.com">contact me by email</a>. I'm always open to discussions and collaborations.
 
 
   </td>
