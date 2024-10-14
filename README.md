@@ -29,23 +29,23 @@
 
 <div align="left">
 
-```js
 /**
- * Represents me.
+ * Represents me as an AI Engineer.
  * @constructor
  * @param {string} city - Bogota, Colombia.
- * @param {string} languagues - Spanish, English, Italian.
- * @param {string} specialization - QA automation.
- * @param {string} interests - QA, math, writing & problem-solving.
- * @param {string} hobbies - Reading, watching sports & playing music.
+ * @param {string} languages - Spanish, English, Italian.
+ * @param {string} specialization - AI Engineering, GEN AI automation, QA automation.
+ * @param {string} interests - AI systems, machine learning, RAG, vectorization, QA, problem-solving.
+ * @param {string} hobbies - Reading, exploring AI models, watching sports & playing music.
  * @param {string} education - BSc CompSci, University of the People.
- * @param approachable Open for exciting project collaborations.
- * @param {string} stength - Resolute.
+ * @param approachable Open for innovative AI project collaborations.
+ * @param {string} strength - Resolute, analytical thinking.
  * @param {string} weakness - Perfectionism.
  * @param {Date} birthday - 20th of August 1998.
- * @throws {Punch} To any and all bugs.
+ * @throws {Punch} To any bugs or AI model issues.
  * @returns {Object} Daniel.
  */
+
 ```
 
 </div>
